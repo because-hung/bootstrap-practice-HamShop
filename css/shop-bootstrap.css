@@ -162,7 +162,7 @@ border-right: 3px gray solid;
 @media (max-width:768px){
 
     
-    .footer-intro{
+    .aboutUs{
         display: none;
         
     }
@@ -173,7 +173,7 @@ border-right: 3px gray solid;
 @media (max-width:414px){
 
     
-    .footer-intro{
+    .aboutUs{
 justify-content: center;
         margin-bottom: 20px;
     }
